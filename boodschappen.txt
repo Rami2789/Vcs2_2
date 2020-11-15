@@ -8,4 +8,5 @@ Pizza:
 Ontbijt:
 - Eiren
 - Brood
+- Boter
 - Sinaasappelsap
